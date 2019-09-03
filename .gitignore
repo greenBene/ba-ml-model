@@ -2,3 +2,5 @@
 \.ipynb_checkpoints/
 
 geolife-data/
+
+processed_data.csv
